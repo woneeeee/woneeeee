@@ -1,6 +1,11 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4b3d3,100:f4d7f3&height=120&text=JIWON%20KIM&animation=&fontColor=000000&fontSize=40" />
-    </div>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=woneeeee&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/woneeeee"
+  width="600"
+  height="300"
+/>
+</a>    </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
@@ -15,7 +20,6 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=woneeeee&bg_color=180,000000,00000000&title_color=f29cd2&text_color=f29cd2"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woneeeee&layout=compact&bg_color=180,000000,00000000&title_color=f29cd2&text_color=f29cd2"
-           /> </div> 
+         />  </div> 
     </div>
     
