@@ -6,6 +6,6 @@
   </a>    
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=woneeeee&hide_title=true&show_icons=true&disable_animations=true&theme=vue"/>
-        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woneeeee&layout=compact&theme=vue&card_width=280"/>
+        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=woneeeee&show_icons=true&locale=en&layout=compact&theme=vue&exclude_repo=NW-SocketHW,algorithm"/>
   </a>
 </div>
